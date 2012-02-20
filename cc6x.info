@@ -1,0 +1,72 @@
+name = CC6X
+description = Install CarClearance.com on Drupal 6.
+core = 6.x
+
+; This file includes in the installation modules downloaded by the .make file.;
+
+; Core modules
+dependencies[] = content
+dependencies[] = contact
+dependencies[] = help
+dependencies[] = menu
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = update
+dependencies[] = block
+dependencies[] = filter
+dependencies[] = node
+dependencies[] = system
+dependencies[] = user
+
+; Contrib modules
+dependencies[] = admin
+dependencies[] = email
+dependencies[] = fieldgroup
+dependencies[] = filefield
+dependencies[] = imagefield
+dependencies[] = number
+dependencies[] = text
+dependencies[] = ctools
+dependencies[] = ctools_custom_content
+dependencies[] = page_manager
+dependencies[] = stylizer
+dependencies[] = views_content
+dependencies[] = context
+dependencies[] = context_ui
+dependencies[] = date
+dependencies[] = date_api
+dependencies[] = date_timezone
+dependencies[] = devel
+dependencies[] = devel_themer
+dependencies[] = features
+dependencies[] = imageapi
+dependencies[] = imagecache
+dependencies[] = location
+dependencies[] = nodewords_admin
+dependencies[] = nodewords_basic
+dependencies[] = nodewords
+dependencies[] = nodewords_ui
+dependencies[] = advanced_help
+dependencies[] = ahah_helper
+dependencies[] = lightbox2
+dependencies[] = robotstxt
+dependencies[] = strongarm
+dependencies[] = token
+dependencies[] = panels_mini
+dependencies[] = panels_node
+dependencies[] = panels
+dependencies[] = panels_ipe
+dependencies[] = jquery_ui
+dependencies[] = jquery_update
+dependencies[] = vertical_tabs
+dependencies[] = views
+dependencies[] = views_customfield
+dependencies[] = views_ui
+
+; Custom modules
+dependencies[] = ab101_nclg
+dependencies[] = ab101_remember_zip
+dependencies[] = ab101_vars
+dependencies[] = vast
+dependencies[] = carclearance_contexts
+dependencies[] = chrome
