@@ -1,5 +1,5 @@
 
-; Contrib projects
+; CONTRIB PROJECTS
 
 projects[views][type] = "module"
 projects[views][subdir] = "contrib"
@@ -19,13 +19,13 @@ projects[context][download][type] = "git"
 projects[context][download][url] = "git://git.drupal.org/project/context.git"
 projects[context][download][tag] = "6.x-3.0"
 
-# -> CONTENT ------------------------------------------------------------------
+; -> CONTENT ------------------------------------------------------------------
 
-# projects[better_formats][type] = "module"
-# projects[better_formats][subdir] = "contrib"
-# projects[better_formats][download][type] = "git"
-# projects[better_formats][download][url] = "git://git.drupal.org/project/better_formats.git"
-# projects[better_formats][download][branch] = "VERSION"
+; projects[better_formats][type] = "module"
+; projects[better_formats][subdir] = "contrib"
+; projects[better_formats][download][type] = "git"
+; projects[better_formats][download][url] = "git://git.drupal.org/project/better_formats.git"
+; projects[better_formats][download][branch] = "VERSION"
 
 projects[cck][type] = "library"
 projects[cck][subdir] = "contrib"
@@ -63,17 +63,17 @@ projects[location][download][type] = "git"
 projects[location][download][url] = "git://git.drupal.org/project/location.git"
 projects[location][download][tag] = "6.x-3.1"
 
-# projects[webform][type] = "module"
-# projects[webform][subdir] = "contrib"
-# projects[webform][download][type] = "git"
-# projects[webform][download][url] = "git://git.drupal.org/project/webform.git"
-# projects[webform][download][branch] = "VERSION"
+; projects[webform][type] = "module"
+; projects[webform][subdir] = "contrib"
+; projects[webform][download][type] = "git"
+; projects[webform][download][url] = "git://git.drupal.org/project/webform.git"
+; projects[webform][download][branch] = "VERSION"
 
-# projects[contemplate][type] = "module"
-# projects[contemplate][subdir] = "contrib"
-# projects[contemplate][download][type] = "git"
-# projects[contemplate][download][url] = "git://git.drupal.org/project/contemplate.git"
-# projects[contemplate][download][branch] = "VERSION"
+; projects[contemplate][type] = "module"
+; projects[contemplate][subdir] = "contrib"
+; projects[contemplate][download][type] = "git"
+; projects[contemplate][download][url] = "git://git.drupal.org/project/contemplate.git"
+; projects[contemplate][download][branch] = "VERSION"
 
 projects[date][type] = "module"
 projects[date][subdir] = "contrib"
@@ -81,31 +81,31 @@ projects[date][download][type] = "git"
 projects[date][download][url] = "git://git.drupal.org/project/date.git"
 projects[date][download][tag] = "6.x-2.8"
 
-# projects[content_profile][type] = "module"
-# projects[content_profile][subdir] = "contrib"
-# projects[content_profile][download][type] = "git"
-# projects[content_profile][download][url] = "git://git.drupal.org/project/content_profile.git"
-# projects[content_profile][download][branch] = "VERSION"
+; projects[content_profile][type] = "module"
+; projects[content_profile][subdir] = "contrib"
+; projects[content_profile][download][type] = "git"
+; projects[content_profile][download][url] = "git://git.drupal.org/project/content_profile.git"
+; projects[content_profile][download][branch] = "VERSION"
 
-# -> MULTIMEDIA ---------------------------------------------------------------
+; -> MULTIMEDIA ---------------------------------------------------------------
 
-# projects[feeds][type] = "module"
-# projects[feeds][subdir] = "contrib"
-# projects[feeds][download][type] = "git"
-# projects[feeds][download][url] = "git://git.drupal.org/project/feeds.git"
-# projects[feeds][download][branch] = "VERSION"
+; projects[feeds][type] = "module"
+; projects[feeds][subdir] = "contrib"
+; projects[feeds][download][type] = "git"
+; projects[feeds][download][url] = "git://git.drupal.org/project/feeds.git"
+; projects[feeds][download][branch] = "VERSION"
 
-# projects[feeds_tamper][type] = "module"
-# projects[feeds_tamper][subdir] = "contrib"
-# projects[feeds_tamper][download][type] = "git"
-# projects[feeds_tamper][download][url] = "git://git.drupal.org/project/feeds_tamper.git"
-# projects[feeds_tamper][download][branch] = "VERSION"
+; projects[feeds_tamper][type] = "module"
+; projects[feeds_tamper][subdir] = "contrib"
+; projects[feeds_tamper][download][type] = "git"
+; projects[feeds_tamper][download][url] = "git://git.drupal.org/project/feeds_tamper.git"
+; projects[feeds_tamper][download][branch] = "VERSION"
 
-# projects[feeds_youtube][type] = "module"
-# projects[feeds_youtube][subdir] = "contrib"
-# projects[feeds_youtube][download][type] = "git"
-# projects[feeds_youtube][download][url] = "git://git.drupal.org/project/feeds_youtube.git"
-# projects[feeds_youtube][download][branch] = "VERSION"
+; projects[feeds_youtube][type] = "module"
+; projects[feeds_youtube][subdir] = "contrib"
+; projects[feeds_youtube][download][type] = "git"
+; projects[feeds_youtube][download][url] = "git://git.drupal.org/project/feeds_youtube.git"
+; projects[feeds_youtube][download][branch] = "VERSION"
 
 projects[imagecache][type] = "module"
 projects[imagecache][subdir] = "contrib"
@@ -125,19 +125,19 @@ projects[emfield][download][type] = "git"
 projects[emfield][download][url] = "git://git.drupal.org/project/emfield.git"
 projects[emfield][download][tag] = "6.x-2.5"
 
-# projects[media][type] = "module"
-# projects[media][subdir] = "contrib"
-# projects[media][download][type] = "git"
-# projects[media][download][url] = "git://git.drupal.org/project/media.git"
-# projects[media][download][branch] = "VERSION"
+; projects[media][type] = "module"
+; projects[media][subdir] = "contrib"
+; projects[media][download][type] = "git"
+; projects[media][download][url] = "git://git.drupal.org/project/media.git"
+; projects[media][download][branch] = "VERSION"
 
-# projects[media_youtube][type] = "module"
-# projects[media_youtube][subdir] = "contrib"
-# projects[media_youtube][download][type] = "git"
-# projects[media_youtube][download][url] = "git://git.drupal.org/project/media_youtube.git"
-# projects[media_youtube][download][branch] = "VERSION"
+; projects[media_youtube][type] = "module"
+; projects[media_youtube][subdir] = "contrib"
+; projects[media_youtube][download][type] = "git"
+; projects[media_youtube][download][url] = "git://git.drupal.org/project/media_youtube.git"
+; projects[media_youtube][download][branch] = "VERSION"
 
-# -> PAGE LAYOUT --------------------------------------------------------------
+; -> PAGE LAYOUT --------------------------------------------------------------
 
 projects[panels][type] = "module"
 projects[panels][subdir] = "contrib"
@@ -145,7 +145,7 @@ projects[panels][download][type] = "git"
 projects[panels][download][url] = "git://git.drupal.org/project/panels.git"
 projects[panels][download][tag] = "6.x-3.9"
 
-# -> UI -----------------------------------------------------------------------
+; -> UI -----------------------------------------------------------------------
 
 projects[jquery_ui][type] = "module"
 projects[jquery_ui][subdir] = "contrib"
@@ -183,11 +183,11 @@ projects[imce][download][type] = "git"
 projects[imce][download][url] = "git://git.drupal.org/project/imce.git"
 projects[imce][download][tag] = "6.x-2.3"
 
-# projects[viewsdisplaytabs][type] = "module"
-# projects[viewsdisplaytabs][subdir] = "contrib"
-# projects[viewsdisplaytabs][download][type] = "git"
-# projects[viewsdisplaytabs][download][url] = "git://git.drupal.org/project/viewsdisplaytabs.git"
-# projects[viewsdisplaytabs][download][branch] = "VERSION"
+; projects[viewsdisplaytabs][type] = "module"
+; projects[viewsdisplaytabs][subdir] = "contrib"
+; projects[viewsdisplaytabs][download][type] = "git"
+; projects[viewsdisplaytabs][download][url] = "git://git.drupal.org/project/viewsdisplaytabs.git"
+; projects[viewsdisplaytabs][download][branch] = "VERSION"
 
 projects[vertical_tabs][type] = "module"
 projects[vertical_tabs][subdir] = "contrib"
@@ -213,39 +213,39 @@ projects[wysiwyg_spellcheck][download][type] = "git"
 projects[wysiwyg_spellcheck][download][url] = "git://git.drupal.org/project/wysiwyg_spellcheck.git"
 projects[wysiwyg_spellcheck][download][tag] = "6.x-1.3"
 
-# -> SOCIAL -------------------------------------------------------------------
+; -> SOCIAL -------------------------------------------------------------------
 
-# projects[addtoany][type] = "module"
-# projects[addtoany][subdir] = "contrib"
-# projects[addtoany][download][type] = "git"
-# projects[addtoany][download][url] = "git://git.drupal.org/project/addtoany.git"
-# projects[addtoany][download][branch] = "VERSION"
+; projects[addtoany][type] = "module"
+; projects[addtoany][subdir] = "contrib"
+; projects[addtoany][download][type] = "git"
+; projects[addtoany][download][url] = "git://git.drupal.org/project/addtoany.git"
+; projects[addtoany][download][branch] = "VERSION"
 
-# projects[forward][type] = "module"
-# projects[forward][subdir] = "contrib"
-# projects[forward][download][type] = "git"
-# projects[forward][download][url] = "git://git.drupal.org/project/forward.git"
-# projects[forward][download][branch] = "VERSION"
+; projects[forward][type] = "module"
+; projects[forward][subdir] = "contrib"
+; projects[forward][download][type] = "git"
+; projects[forward][download][url] = "git://git.drupal.org/project/forward.git"
+; projects[forward][download][branch] = "VERSION"
 
-# projects[feedback][type] = "module"
-# projects[feedback][subdir] = "contrib"
-# projects[feedback][download][type] = "git"
-# projects[feedback][download][url] = "git://git.drupal.org/project/feedback.git"
-# projects[feedback][download][branch] = "VERSION"
+; projects[feedback][type] = "module"
+; projects[feedback][subdir] = "contrib"
+; projects[feedback][download][type] = "git"
+; projects[feedback][download][url] = "git://git.drupal.org/project/feedback.git"
+; projects[feedback][download][branch] = "VERSION"
 
-# -> NAVIGATION/SEO -----------------------------------------------------------
+; -> NAVIGATION/SEO -----------------------------------------------------------
 
-# projects[adsense][type] = "module"
-# projects[adsense][subdir] = "contrib"
-# projects[adsense][download][type] = "git"
-# projects[adsense][download][url] = "git://git.drupal.org/project/adsense.git"
-# projects[adsense][download][branch] = "VERSION"
+; projects[adsense][type] = "module"
+; projects[adsense][subdir] = "contrib"
+; projects[adsense][download][type] = "git"
+; projects[adsense][download][url] = "git://git.drupal.org/project/adsense.git"
+; projects[adsense][download][branch] = "VERSION"
 
-# projects[browscap][type] = "module"
-# projects[browscap][subdir] = "contrib"
-# projects[browscap][download][type] = "git"
-# projects[browscap][download][url] = "git://git.drupal.org/project/browscap.git"
-# projects[browscap][download][branch] = "VERSION"
+; projects[browscap][type] = "module"
+; projects[browscap][subdir] = "contrib"
+; projects[browscap][download][type] = "git"
+; projects[browscap][download][url] = "git://git.drupal.org/project/browscap.git"
+; projects[browscap][download][branch] = "VERSION"
 
 projects[custom_breadcrumbs][type] = "module"
 projects[custom_breadcrumbs][subdir] = "contrib"
@@ -253,11 +253,11 @@ projects[custom_breadcrumbs][download][type] = "git"
 projects[custom_breadcrumbs][download][url] = "git://git.drupal.org/project/custom_breadcrumbs.git"
 projects[custom_breadcrumbs][download][tag] = "6.x-2.0-rc1"
 
-# projects[external][type] = "module"
-# projects[external][subdir] = "contrib"
-# projects[external][download][type] = "git"
-# projects[external][download][url] = "ssh://git@git.condurre.com/external.git"
-# projects[external][download][branch] = "VERSION"
+; projects[external][type] = "module"
+; projects[external][subdir] = "contrib"
+; projects[external][download][type] = "git"
+; projects[external][download][url] = "ssh://git@git.condurre.com/external.git"
+; projects[external][download][branch] = "VERSION"
 
 projects[google_analytics][type] = "module"
 projects[google_analytics][subdir] = "contrib"
@@ -307,7 +307,7 @@ projects[xmlsitemap][download][type] = "git"
 projects[xmlsitemap][download][url] = "git://git.drupal.org/project/xmlsitemap.git"
 projects[xmlsitemap][download][tag] = "6.x-2.0-rc1"
 
-# -> DEVELOPMENT --------------------------------------------------------------
+; -> DEVELOPMENT --------------------------------------------------------------
 
 projects[coder][type] = "module"
 projects[coder][subdir] = "contrib"
@@ -321,23 +321,23 @@ projects[devel][download][type] = "git"
 projects[devel][download][url] = "git://git.drupal.org/project/devel.git"
 projects[devel][download][tag] = "6.x-1.9"
 
-# projects[devel_themer][type] = "module"
-# projects[devel_themer][subdir] = "contrib"
-# projects[devel_themer][download][type] = "git"
-# projects[devel_themer][download][url] = "git://git.drupal.org/project/devel_themer.git"
-# projects[devel_themer][download][branch] = "6.x-1.x"
+; projects[devel_themer][type] = "module"
+; projects[devel_themer][subdir] = "contrib"
+; projects[devel_themer][download][type] = "git"
+; projects[devel_themer][download][url] = "git://git.drupal.org/project/devel_themer.git"
+; projects[devel_themer][download][branch] = "6.x-1.x"
 
-# projects[debug][type] = "module"
-# projects[debug][subdir] = "contrib"
-# projects[debug][download][type] = "git"
-# projects[debug][download][url] = "git://git.drupal.org/project/debug.git"
-# projects[debug][download][branch] = "VERSION"
+; projects[debug][type] = "module"
+; projects[debug][subdir] = "contrib"
+; projects[debug][download][type] = "git"
+; projects[debug][download][url] = "git://git.drupal.org/project/debug.git"
+; projects[debug][download][branch] = "VERSION"
 
-# projects[examples][type] = "module"
-# projects[examples][subdir] = "contrib"
-# projects[examples][download][type] = "git"
-# projects[examples][download][url] = "git://git.drupal.org/project/examples.git"
-# projects[examples][download][branch] = "6.x-1.x"
+; projects[examples][type] = "module"
+; projects[examples][subdir] = "contrib"
+; projects[examples][download][type] = "git"
+; projects[examples][download][url] = "git://git.drupal.org/project/examples.git"
+; projects[examples][download][branch] = "6.x-1.x"
 
 projects[features][type] = "module"
 projects[features][subdir] = "contrib"
@@ -345,11 +345,11 @@ projects[features][download][type] = "git"
 projects[features][download][url] = "git://git.drupal.org/project/features.git"
 projects[features][download][tag] = "6.x-1.2"
 
-# projects[git_deploy][type] = "module"
-# projects[git_deploy][subdir] = "contrib"
-# projects[git_deploy][download][type] = "git"
-# projects[git_deploy][download][url] = "git://git.drupal.org/project/git_deploy.git"
-# projects[git_deploy][download][branch] = "6.x-1.x"
+; projects[git_deploy][type] = "module"
+; projects[git_deploy][subdir] = "contrib"
+; projects[git_deploy][download][type] = "git"
+; projects[git_deploy][download][url] = "git://git.drupal.org/project/git_deploy.git"
+; projects[git_deploy][download][branch] = "6.x-1.x"
 
 projects[simpletest][type] = "module"
 projects[simpletest][subdir] = "contrib"
@@ -357,7 +357,7 @@ projects[simpletest][download][type] = "git"
 projects[simpletest][download][url] = "git://git.drupal.org/project/simpletest.git"
 projects[simpletest][download][tag] = "6.x-2.9"
 
-# -> ADMINISTRATION -----------------------------------------------------------
+; -> ADMINISTRATION -----------------------------------------------------------
 
 projects[admin][type] = "module"
 projects[admin][subdir] = "contrib"
@@ -365,11 +365,11 @@ projects[admin][download][type] = "git"
 projects[admin][download][url] = "git://git.drupal.org/project/admin.git"
 projects[admin][download][tag] = "6.x-2.0"
 
-# projects[checkall][type] = "module"
-# projects[checkall][subdir] = "contrib"
-# projects[checkall][download][type] = "git"
-# projects[checkall][download][url] = "git://git.drupal.org/project/checkall.git"
-# projects[checkall][download][branch] = "VERSION"
+; projects[checkall][type] = "module"
+; projects[checkall][subdir] = "contrib"
+; projects[checkall][download][type] = "git"
+; projects[checkall][download][url] = "git://git.drupal.org/project/checkall.git"
+; projects[checkall][download][branch] = "VERSION"
 
 projects[backup_migrate][type] = "module"
 projects[backup_migrate][subdir] = "contrib"
@@ -377,11 +377,11 @@ projects[backup_migrate][download][type] = "git"
 projects[backup_migrate][download][url] = "git://git.drupal.org/project/backup_migrate.git"
 projects[backup_migrate][download][tag] = "6.x-2.4"
 
-# projects[job_scheduler][type] = "module"
-# projects[job_scheduler][subdir] = "contrib"
-# projects[job_scheduler][download][type] = "git"
-# projects[job_scheduler][download][url] = "git://git.drupal.org/project/job_scheduler.git"
-# projects[job_scheduler][download][branch] = "VERSION"
+; projects[job_scheduler][type] = "module"
+; projects[job_scheduler][subdir] = "contrib"
+; projects[job_scheduler][download][type] = "git"
+; projects[job_scheduler][download][url] = "git://git.drupal.org/project/job_scheduler.git"
+; projects[job_scheduler][download][branch] = "VERSION"
 
 projects[domain][type] = "module"
 projects[domain][subdir] = "contrib"
@@ -443,19 +443,19 @@ projects[views_customfield][download][type] = "git"
 projects[views_customfield][download][url] = "git://git.drupal.org/project/views_customfield.git"
 projects[views_customfield][download][tag] = "6.x-1.0"
 
-# projects[views_or][type] = "module"
-# projects[views_or][subdir] = "contrib"
-# projects[views_or][download][type] = "git"
-# projects[views_or][download][url] = "git://git.drupal.org/project/views_or.git"
-# projects[views_or][download][branch] = "VERSION"
+; projects[views_or][type] = "module"
+; projects[views_or][subdir] = "contrib"
+; projects[views_or][download][type] = "git"
+; projects[views_or][download][url] = "git://git.drupal.org/project/views_or.git"
+; projects[views_or][download][branch] = "VERSION"
 
-# projects[drupad][type] = "module"
-# projects[drupad][subdir] = "contrib"
-# projects[drupad][download][type] = "git"
-# projects[drupad][download][url] = "git://git.drupal.org/project/drupad.git"
-# projects[drupad][download][branch] = "VERSION"
+; projects[drupad][type] = "module"
+; projects[drupad][subdir] = "contrib"
+; projects[drupad][download][type] = "git"
+; projects[drupad][download][url] = "git://git.drupal.org/project/drupad.git"
+; projects[drupad][download][branch] = "VERSION"
 
-# -> PERFORMANCE --------------------------------------------------------------
+; -> PERFORMANCE --------------------------------------------------------------
 
 projects[ie_css_optimizer][type] = "module"
 projects[ie_css_optimizer][subdir] = "contrib"
@@ -475,19 +475,19 @@ projects[varnish][download][type] = "git"
 projects[varnish][download][url] = "git://git.drupal.org/project/varnish.git"
 projects[varnish][download][tag] = "6.x-1.0"
 
-# -> UTILITIES ----------------------------------------------------------------
+; -> UTILITIES ----------------------------------------------------------------
 
-# projects[libraries][type] = "module"
-# projects[libraries][subdir] = "contrib"
-# projects[libraries][download][type] = "git"
-# projects[libraries][download][url] = "git://git.drupal.org/project/libraries.git"
-# projects[libraries][download][branch] = "VERSION"
+; projects[libraries][type] = "module"
+; projects[libraries][subdir] = "contrib"
+; projects[libraries][download][type] = "git"
+; projects[libraries][download][url] = "git://git.drupal.org/project/libraries.git"
+; projects[libraries][download][branch] = "VERSION"
 
-# projects[conditional_styles][type] = "module"
-# projects[conditional_styles][subdir] = "contrib"
-# projects[conditional_styles][download][type] = "git"
-# projects[conditional_styles][download][url] = "git://git.drupal.org/project/conditional_styles.git"
-# projects[conditional_styles][download][branch] = "VERSION"
+; projects[conditional_styles][type] = "module"
+; projects[conditional_styles][subdir] = "contrib"
+; projects[conditional_styles][download][type] = "git"
+; projects[conditional_styles][download][url] = "git://git.drupal.org/project/conditional_styles.git"
+; projects[conditional_styles][download][branch] = "VERSION"
 
 projects[diff][type] = "module"
 projects[diff][subdir] = "contrib"
@@ -519,22 +519,22 @@ projects[ahah_helper][download][type] = "git"
 projects[ahah_helper][download][url] = "git://git.drupal.org/project/ahah_helper.git"
 projects[ahah_helper][download][tag] = "6.x-2.2"
 
-# -> SECURITY -----------------------------------------------------------------
+; -> SECURITY -----------------------------------------------------------------
 
-# projects[captcha][type] = "module"
-# projects[captcha][subdir] = "contrib"
-# projects[captcha][download][type] = "git"
-# projects[captcha][download][url] = "git://git.drupal.org/project/captcha.git"
-# projects[captcha][download][branch] = "VERSION"
+; projects[captcha][type] = "module"
+; projects[captcha][subdir] = "contrib"
+; projects[captcha][download][type] = "git"
+; projects[captcha][download][url] = "git://git.drupal.org/project/captcha.git"
+; projects[captcha][download][branch] = "VERSION"
 
-# projects[recaptcha][type] = "module"
-# projects[recaptcha][subdir] = "contrib"
-# projects[recaptcha][download][type] = "git"
-# projects[recaptcha][download][url] = "git://git.drupal.org/project/recaptcha.git"
-# projects[recaptcha][download][branch] = "VERSION"
+; projects[recaptcha][type] = "module"
+; projects[recaptcha][subdir] = "contrib"
+; projects[recaptcha][download][type] = "git"
+; projects[recaptcha][download][url] = "git://git.drupal.org/project/recaptcha.git"
+; projects[recaptcha][download][branch] = "VERSION"
 
 
-# CUSTOM MODULES ---------------------------------------------------------------
+; CUSTOM MODULES ---------------------------------------------------------------
 
 projects[ab101_vars][type] = "module"
 projects[ab101_vars][subdir] = "custom"
@@ -548,11 +548,11 @@ projects[nclg][download][type] = "git"
 projects[nclg][download][url] = "ssh://git@git.condurre.com/nclg.git"
 projects[nclg][download][branch] = "6.x-1.x-dev"
 
-# projects[ab101_blog][type] = "module"
-# projects[ab101_blog][subdir] = "custom"
-# projects[ab101_blog][download][type] = "git"
-# projects[ab101_blog][download][url] = "ssh://git@git.condurre.com/ab101_blog.git"
-# projects[ab101_blog][download][branch] = "VERSION"
+; projects[ab101_blog][type] = "module"
+; projects[ab101_blog][subdir] = "custom"
+; projects[ab101_blog][download][type] = "git"
+; projects[ab101_blog][download][url] = "ssh://git@git.condurre.com/ab101_blog.git"
+; projects[ab101_blog][download][branch] = "VERSION"
 
 projects[ab101_calculators][type] = "module"
 projects[ab101_calculators][subdir] = "custom"
@@ -591,7 +591,7 @@ projects[carclearance_contexts][download][url] = "ssh://git@git.condurre.com/car
 projects[carclearance_contexts][download][branch] = "6.x-1.x"
 
 
-# CONTRIB THEMES ---------------------------------------------------------------
+; CONTRIB THEMES ---------------------------------------------------------------
 
 projects[fusion][type] = "theme"
 projects[fusion][subdir] = "contrib"
@@ -600,7 +600,7 @@ projects[fusion][download][url] = "git://git.drupal.org/project/fusion.git"
 projects[fusion][download][tag] = "6.x-1.13"
 
 
-# CUSTOM THEMES ----------------------------------------------------------------
+; CUSTOM THEMES ----------------------------------------------------------------
 
 projects[gt1][type] = "theme"
 projects[gt1][subdir] = "custom"
