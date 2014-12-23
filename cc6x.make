@@ -521,6 +521,12 @@ projects[ahah_helper][download][type] = "git"
 projects[ahah_helper][download][url] = "git://git.drupal.org/project/ahah_helper.git"
 projects[ahah_helper][download][tag] = "6.x-2.2"
 
+projects[smart_ip][type] = "module"
+projects[smart_ip][subdir] = "contrib"
+projects[smart_ip][download][type] = "git"
+projects[smart_ip][download][url] = "git://git.drupal.org/project/smart_ip.git"
+projects[smart_ip][download][branch] = "6.x-2.x"
+
 ; -> SECURITY -----------------------------------------------------------------
 
 ; projects[captcha][type] = "module"
