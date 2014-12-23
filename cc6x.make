@@ -389,7 +389,7 @@ projects[domain][type] = "module"
 projects[domain][subdir] = "contrib"
 projects[domain][download][type] = "git"
 projects[domain][download][url] = "git://git.drupal.org/project/domain.git"
-projects[domain][download][tag] = "6.x-2.9"
+projects[domain][download][tag] = "6.x-2.14"
 
 projects[domain_blocks][type] = "module"
 projects[domain_blocks][subdir] = "contrib"
