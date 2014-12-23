@@ -113,7 +113,7 @@ projects[imagecache][type] = "module"
 projects[imagecache][subdir] = "contrib"
 projects[imagecache][download][type] = "git"
 projects[imagecache][download][url] = "git://git.drupal.org/project/imagecache.git"
-projects[imagecache][download][tag] = "6.x-2.0-beta9"
+projects[imagecache][download][tag] = "6.x-2.0-rc1"
 
 projects[imageapi][type] = "module"
 projects[imageapi][subdir] = "contrib"
