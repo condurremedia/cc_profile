@@ -365,6 +365,12 @@ projects[simpletest][download][type] = "git"
 projects[simpletest][download][url] = "git://git.drupal.org/project/simpletest.git"
 projects[simpletest][download][tag] = "6.x-2.9"
 
+projects[stage_file_proxy][type] = "module"
+projects[stage_file_proxy][subdir] = "contrib"
+projects[stage_file_proxy][download][type] = "git"
+projects[stage_file_proxy][download][url] = "git://git.drupal.org/project/stage_file_proxy.git"
+projects[stage_file_proxy][download][branch] = "6.x-1.x"
+
 ; -> ADMINISTRATION -----------------------------------------------------------
 
 projects[admin][type] = "module"
