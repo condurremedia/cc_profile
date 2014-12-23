@@ -403,6 +403,12 @@ projects[domain_blocks][download][type] = "git"
 projects[domain_blocks][download][url] = "git://git.drupal.org/project/domain_blocks.git"
 projects[domain_blocks][download][tag] = "6.x-1.3"
 
+projects[domaincontext][type] = "module"
+projects[domaincontext][subdir] = "contrib"
+projects[domaincontext][download][type] = "git"
+projects[domaincontext][download][url] = "git://git.drupal.org/project/domaincontext.git"
+projects[domaincontext][download][tag] = "6.x-1.0"
+
 projects[permission_select][type] = "module"
 projects[permission_select][subdir] = "contrib"
 projects[permission_select][download][type] = "git"
