@@ -32,7 +32,7 @@ projects[context][download][tag] = "6.x-3.0"
 projects[cck][type] = "library"
 projects[cck][subdir] = "contrib"
 projects[cck][download][type] = "git"
-projects[cck][download][url] = "git://github.com/patrikf/glip.git"
+projects[cck][download][url] = "http://git.drupal.org/project/cck.git"
 projects[cck][download][tag] = "6.x-3.0-alpah3"
 
 projects[email][type] = "module"
