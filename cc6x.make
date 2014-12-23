@@ -145,7 +145,7 @@ projects[panels][type] = "module"
 projects[panels][subdir] = "contrib"
 projects[panels][download][type] = "git"
 projects[panels][download][url] = "git://git.drupal.org/project/panels.git"
-projects[panels][download][tag] = "6.x-3.9"
+projects[panels][download][tag] = "6.x-3.10"
 
 ; -> UI -----------------------------------------------------------------------
 
