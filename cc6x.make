@@ -544,6 +544,13 @@ projects[smart_ip][download][branch] = "6.x-2.x"
 
 ; CUSTOM MODULES ---------------------------------------------------------------
 
+projects[condurre_modules][type] = "module"
+projects[condurre_modules][subdir] = "custom"
+projects[condurre_modules][download][type] = "git"
+projects[condurre_modules][download][url] = "git@github.com:condurremedia/condurre_modules.git
+t"
+projects[condurre_modules][download][branch] = "6.x-1.x"
+
 projects[ab101_modules][type] = "module"
 projects[ab101_modules][subdir] = "custom"
 projects[ab101_modules][download][type] = "git"
