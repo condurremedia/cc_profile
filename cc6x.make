@@ -21,6 +21,12 @@ projects[context][download][type] = "git"
 projects[context][download][url] = "git://git.drupal.org/project/context.git"
 projects[context][download][tag] = "6.x-3.3"
 
+projects[rules][type] = "module"
+projects[rules][subdir] = "contrib"
+projects[rules][download][type] = "git"
+projects[rules][download][url] = "git://git.drupal.org/project/rules.git"
+projects[rules][download][tag] = "6.x-1.5"
+
 ; -> CONTENT ------------------------------------------------------------------
 
 ; projects[better_formats][type] = "module"
