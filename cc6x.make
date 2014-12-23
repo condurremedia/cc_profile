@@ -19,7 +19,7 @@ projects[context][type] = "module"
 projects[context][subdir] = "contrib"
 projects[context][download][type] = "git"
 projects[context][download][url] = "git://git.drupal.org/project/context.git"
-projects[context][download][tag] = "6.x-3.0"
+projects[context][download][tag] = "6.x-3.3"
 
 ; -> CONTENT ------------------------------------------------------------------
 
