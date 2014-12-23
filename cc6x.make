@@ -13,7 +13,7 @@ projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
 projects[ctools][download][type] = "git"
 projects[ctools][download][url] = "git://git.drupal.org/project/ctools.git"
-projects[ctools][download][tag] = "6.x-1.8"
+projects[ctools][download][tag] = "6.x-1.11"
 
 projects[context][type] = "module"
 projects[context][subdir] = "contrib"
