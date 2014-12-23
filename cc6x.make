@@ -171,7 +171,7 @@ projects[lightbox2][type] = "module"
 projects[lightbox2][subdir] = "contrib"
 projects[lightbox2][download][type] = "git"
 projects[lightbox2][download][url] = "git://git.drupal.org/project/lightbox2.git"
-projects[lightbox2][download][tag] = "6.x-1.9"
+projects[lightbox2][download][tag] = "6.x-1.11"
 
 projects[insert][type] = "module"
 projects[insert][subdir] = "contrib"
