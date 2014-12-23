@@ -538,41 +538,17 @@ projects[ahah_helper][download][tag] = "6.x-2.2"
 
 ; CUSTOM MODULES ---------------------------------------------------------------
 
-projects[ab101_vars][type] = "module"
-projects[ab101_vars][subdir] = "custom"
-projects[ab101_vars][download][type] = "git"
-projects[ab101_vars][download][url] = "ssh://git@git.condurre.com/ab101_vars.git"
-projects[ab101_vars][download][branch] = "6.x-1.x"
+projects[ab101_modules][type] = "module"
+projects[ab101_modules][subdir] = "custom"
+projects[ab101_modules][download][type] = "git"
+projects[ab101_modules][download][url] = "git@github.com:condurremedia/ab101_modules.git"
+projects[ab101_modules][download][branch] = "6.x-1.x"
 
 projects[nclg][type] = "module"
 projects[nclg][subdir] = "custom"
 projects[nclg][download][type] = "git"
-projects[nclg][download][url] = "ssh://git@git.condurre.com/nclg.git"
-projects[nclg][download][branch] = "6.x-1.x-dev"
-
-; projects[ab101_blog][type] = "module"
-; projects[ab101_blog][subdir] = "custom"
-; projects[ab101_blog][download][type] = "git"
-; projects[ab101_blog][download][url] = "ssh://git@git.condurre.com/ab101_blog.git"
-; projects[ab101_blog][download][branch] = "VERSION"
-
-projects[ab101_calculators][type] = "module"
-projects[ab101_calculators][subdir] = "custom"
-projects[ab101_calculators][download][type] = "git"
-projects[ab101_calculators][download][url] = "ssh://git@git.condurre.com/ab101_calculators.git"
-projects[ab101_calculators][download][branch] = "master"
-
-projects[ab101_nclg][type] = "module"
-projects[ab101_nclg][subdir] = "custom"
-projects[ab101_nclg][download][type] = "git"
-projects[ab101_nclg][download][url] = "ssh://git@git.condurre.com/ab101_nclg.git"
-projects[ab101_nclg][download][branch] = "6.x-1.x"
-
-projects[ab101_remember_zip][type] = "module"
-projects[ab101_remember_zip][subdir] = "custom"
-projects[ab101_remember_zip][download][type] = "git"
-projects[ab101_remember_zip][download][url] = "ssh://git@git.condurre.com/ab101_remember_zip.git"
-projects[ab101_remember_zip][download][branch] = "6.x-1.x"
+projects[nclg][download][url] = "git@github.com:condurremedia/nclg.git"
+projects[nclg][download][branch] = "6.x-1.x"
 
 projects[chrome][type] = "module"
 projects[chrome][subdir] = "custom"
@@ -586,11 +562,11 @@ projects[vast][download][type] = "git"
 projects[vast][download][url] = "ssh://git@git.condurre.com/vast.git"
 projects[vast][download][branch] = "6.x-1.x"
 
-projects[carclearance_contexts][type] = "module"
-projects[carclearance_contexts][subdir] = "custom"
-projects[carclearance_contexts][download][type] = "git"
-projects[carclearance_contexts][download][url] = "ssh://git@git.condurre.com/carclearance_contexts.git"
-projects[carclearance_contexts][download][branch] = "6.x-1.x"
+projects[carclearance_modules][type] = "module"
+projects[carclearance_modules][subdir] = "custom"
+projects[carclearance_modules][download][type] = "git"
+projects[carclearance_modules][download][url] = "git@github.com:condurremedia/carclearance_modules.git"
+projects[carclearance_modules][download][branch] = "6.x-1.x"
 
 
 ; CONTRIB THEMES ---------------------------------------------------------------
