@@ -538,6 +538,7 @@ projects[ahah_helper][subdir] = "contrib"
 projects[ahah_helper][download][type] = "git"
 projects[ahah_helper][download][url] = "git://git.drupal.org/project/ahah_helper.git"
 projects[ahah_helper][download][tag] = "6.x-2.2"
+projects[ahah_helper][patch][] = "https://www.drupal.org/files/ahah_helper-notices-1371792-1.patch"
 
 projects[smart_ip][type] = "module"
 projects[smart_ip][subdir] = "contrib"
