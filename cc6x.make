@@ -407,7 +407,7 @@ projects[domain_blocks][type] = "module"
 projects[domain_blocks][subdir] = "contrib"
 projects[domain_blocks][download][type] = "git"
 projects[domain_blocks][download][url] = "git://git.drupal.org/project/domain_blocks.git"
-projects[domain_blocks][download][tag] = "6.x-1.3"
+projects[domain_blocks][download][branch] = "6.x-1.x"
 
 projects[domaincontext][type] = "module"
 projects[domaincontext][subdir] = "contrib"
