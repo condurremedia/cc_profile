@@ -7,7 +7,7 @@ projects[views][type] = "module"
 projects[views][subdir] = "contrib"
 projects[views][download][type] = "git"
 projects[views][download][url] = "git://git.drupal.org/project/views.git"
-projects[views][download][tag] = "6.x-3.0"
+projects[views][download][branch] = "6.x-3.x"
 
 projects[ctools][type] = "module"
 projects[ctools][subdir] = "contrib"
