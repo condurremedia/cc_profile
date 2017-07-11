@@ -389,7 +389,7 @@ projects[backup_migrate][type] = "module"
 projects[backup_migrate][subdir] = "contrib"
 projects[backup_migrate][download][type] = "git"
 projects[backup_migrate][download][url] = "git://git.drupal.org/project/backup_migrate.git"
-projects[backup_migrate][download][tag] = "6.x-2.x"
+projects[backup_migrate][download][tag] = "6.x-2.4"
 
 ; projects[job_scheduler][type] = "module"
 ; projects[job_scheduler][subdir] = "contrib"
